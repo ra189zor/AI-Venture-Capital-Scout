@@ -31,3 +31,4 @@ lxml
 beautifulsoup4
 pysqlite3-binary
 chromadb
+pysqlite3
