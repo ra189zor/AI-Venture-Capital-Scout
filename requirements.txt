@@ -1,0 +1,31 @@
+# requirements.txt
+
+# Core Frameworks
+streamlit
+crewai
+langchain
+langchain-community
+langchain-openai
+
+# LLM & Environment
+openai
+python-dotenv
+tiktoken # Often needed by langchain-openai for token counting
+
+# Predictive Modeling
+tensorflow # Or tensorflow-cpu if you don't need/have GPU support
+scikit-learn
+pandas
+joblib
+
+# PDF Processing & Web Tools
+pypdf # Dependency for PyPDFLoader
+# If you switch back to PyMuPDF later: pymupdf
+# If you use the HTML conversion method later: pdfminer.six, beautifulsoup4, lxml
+
+# Web Search Tool Dependency (if used)
+duckduckgo-search
+
+# Optional but recommended for parsing HTML if used
+lxml
+beautifulsoup4
