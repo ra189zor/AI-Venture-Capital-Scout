@@ -96,6 +96,8 @@ This tool automates the initial screening of pitch decks by:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs, feature requests, or improvements.
-
-Made By AB
+## Author
+AB
+---
+Made with ❤️ 
 
